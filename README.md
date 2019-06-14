@@ -4,7 +4,7 @@ Este documento va a ser la guía para ir realizando el taller de LaTeX.
 
 ## Primera parte
 
-Para comenzar, crearemos nuestro primer documento en blanco en la plataforma overleaf.
+Para comenzar, crearemos nuestro primer documento en blanco en la plataforma OverLeaf.
 
 ```latex
 \documentclass{article}
