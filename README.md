@@ -9,7 +9,7 @@ Para comenzar, crearemos nuestro primer documento en blanco en la plataforma ove
 \usepackage[utf8]{inputenc}
 
 \title{prueba}
-\author{miguel.hernandez2.next }
+\author{nombre_autor }
 \date{June 2019}
 
 \begin{document}
