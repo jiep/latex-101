@@ -1,4 +1,4 @@
-# Taller Latex-101
+# Taller LaTeX-101
 
 Este documento va a ser la guía para ir realizando el taller de LaTeX.
 
