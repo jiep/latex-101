@@ -5,8 +5,9 @@ Crear el indíce del siguiente documento:
 ```latex
 \documentclass{article}
 \usepackage[utf8]{inputenc}
+\usepackage{lipsum}
 
-\title{Taller LaTeX}
+\title{Taller LaTeX -- Ejercicio 1}
 \author{Tu nombre}
 \date{26 de junio de 2019}
 
@@ -14,14 +15,11 @@ Crear el indíce del siguiente documento:
 
 \maketitle
 
-# Añadir código necesario para crear un índice.
+% Añadir código necesario para crear un índice.
 
-\section{Introduction}
-\section{Parte 1}
-\subsection{Parte 1.1}
-\subsubsection{Parte 1.1.1}
-\subsection{Parte 1.2}
-\section{Parte 2}
+% Añadir código de las secciones.
+% Te puede ser útil el paquete lipsum para añadir texto aleatorio.
+
 
 \end{document}
 ```
