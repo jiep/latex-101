@@ -20,6 +20,23 @@ Añadir las imágenes en el documento de la manera indicada.
 \tableofcontents
 \newpage
 
+\section{Introduction}
+\lipsum[10]
+\section{Parte 1}
+\lipsum[1]
+\subsection{Parte 1.1}
+\lipsum[2]
+\subsubsection{Parte 1.1.1}
+\lipsum[3]
+
+\section{Modo matemático}
+\subsection{Fórmula 1}
+$$ E = m c^2 $$
+\subsection{Fórmula 2}
+$$ F = \dfrac{m_1 \cdot m_2}{r^2} $$
+\subsection{Fórmula 3}
+ $$ \hat f(\zeta) = \int_{-\infty}^{+\infty} f(x) \ e^{2\pi i x \zeta} \mathrm{dx} $$
+
 \section{Imágenes y figuras}
 \section{Imagen centrada}
 \subsection{Imagen centrada de 7cm de ancho}
