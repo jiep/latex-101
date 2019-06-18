@@ -9,7 +9,7 @@ Añadir la bibliografía.
 \usepackage[utf8]{inputenc}
 % Añadir paquete para fórmulas graphicx & lipsum
 
-\title{Taller LaTeX -- Ejercicio 4}
+\title{Taller LaTeX -- Ejercicio 5}
 \author{Tu nombre}
 \date{26 de junio de 2019}
 
