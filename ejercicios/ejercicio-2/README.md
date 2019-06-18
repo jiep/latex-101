@@ -21,11 +21,21 @@ Aquí está el esqueleto del documento:
 
 % Añadir en cada sección la fórmula correspondiente
 
-\section{Fórmula 1}
+\section{Introduction}
+\lipsum[10]
+\section{Parte 1}
+\lipsum[1]
+\subsection{Parte 1.1}
+\lipsum[2]
+\subsubsection{Parte 1.1.1}
+\lipsum[3]
 
-\section{Fórmula 2}
+\section{Fórmulas}
+\subsection{Fórmula 1}
 
-\section{Fórmula 3}
+\subsection{Fórmula 2}
+
+\subsection{Fórmula 3}
 
 \end{document}
 ```
