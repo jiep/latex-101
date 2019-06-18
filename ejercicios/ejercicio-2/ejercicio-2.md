@@ -1,10 +1,13 @@
-# Ejercicio 2
+# Segundo ejercicio
 
-Tratar de crear las siguientes formulas en el documento proporcionado:
+Crear el documento LaTeX a partir del pdf Ejercicio-2.pdf
+
+Aquí está el esqueleto del documento:
 
 ```latex
 \documentclass{article}
 \usepackage[utf8]{inputenc}
+% Añadir paquete para fórmulas amsmath
 
 \title{Taller LaTeX}
 \author{Tu nombre}

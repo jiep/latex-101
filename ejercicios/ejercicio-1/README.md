@@ -1,6 +1,6 @@
 # Primer ejercicio.
 
-Crear el documento latex a partir del pdf Ejercicio-1.pdf
+Crear el documento LaTeX a partir del pdf Ejercicio-1.pdf
 
 Aquí está el esqueleto del documento:
 
