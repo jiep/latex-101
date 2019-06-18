@@ -8,7 +8,7 @@ Tratar de crear las siguientes formulas en el documento proporcionado:
 \usepackage{lipsum}
 \usepackage{amsmath}
 
-\title{Taller LaTeX -- Ejercicio 1}
+\title{Taller LaTeX -- Ejercicio 2}
 \author{Tu nombre}
 \date{26 de junio de 2019}
 

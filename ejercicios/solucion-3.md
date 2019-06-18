@@ -8,7 +8,7 @@ Añadir las imágenes en el documento de la manera indicada.
 \usepackage{lipsum}
 \usepackage{graphicx}
 
-\title{Taller LaTeX -- Ejercicio 1}
+\title{Taller LaTeX -- Ejercicio 3}
 \author{Tu nombre}
 \date{26 de junio de 2019}
 
