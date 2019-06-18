@@ -1,6 +1,8 @@
 # Primer ejercicio.
 
-Crear el indíce del siguiente documento:
+Crear el documento latex a partir del pdf Ejercicio-1.pdf
+
+Aquí está el esqueleto del documento:
 
 ```latex
 \documentclass{article}
