@@ -19,7 +19,6 @@ Aquí está el esqueleto del documento:
 
 \tableofcontents
 
-% Añadir en cada sección la fórmula correspondiente
 
 \section{Introduction}
 \lipsum[10]
@@ -29,6 +28,8 @@ Aquí está el esqueleto del documento:
 \lipsum[2]
 \subsubsection{Parte 1.1.1}
 \lipsum[3]
+
+% Añadir en cada sección la fórmula correspondiente
 
 \section{Fórmulas}
 \subsection{Fórmula 1}
