@@ -1,8 +1,3 @@
-# Primer ejercicio.
-
-Crear el indíce del siguiente documento:
-
-```latex
 \documentclass{article}
 \usepackage[utf8]{inputenc}
 \usepackage{lipsum}
@@ -16,10 +11,20 @@ Crear el indíce del siguiente documento:
 \maketitle
 
 % Añadir código necesario para crear un índice.
+\tableofcontents
+\newpage
 
-% Añadir código de las secciones.
-% Te puede ser útil el paquete lipsum para añadir texto aleatorio.
-
+\section{Introduction}
+\lipsum[10]
+\section{Parte 1}
+\lipsum[1]
+\subsection{Parte 1.1}
+\lipsum[2]
+\subsubsection{Parte 1.1.1}
+\lipsum[3]
+\subsection{Parte 1.2}
+\lipsum[5]
+\section{Parte 2}
+\lipsum[8]
 
 \end{document}
-```
