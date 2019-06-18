@@ -1,3 +1,4 @@
+```latex
 \documentclass{article}
 \usepackage[utf8]{inputenc}
 \usepackage{lipsum}
@@ -28,3 +29,4 @@
 \lipsum[8]
 
 \end{document}
+```
