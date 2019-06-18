@@ -1,4 +1,4 @@
-# Ejercicio 3
+# Ejercicio 4
 
 Crear el documento LaTeX a partir del pdf Ejercicio-4.pdf
 
@@ -20,14 +20,42 @@ Añadir la tabla en el documento.
 \tableofcontents
 \newpage
 
-\section{Tabla}
+\section{Introduction}
+\lipsum[10]
+\section{Parte 1}
+\lipsum[1]
+\subsection{Parte 1.1}
+\lipsum[2]
+\subsubsection{Parte 1.1.1}
+\lipsum[3]
+
+\section{Modo matemático}
+\subsection{Fórmula 1}
+$$ E = m c^2 $$
+\subsection{Fórmula 2}
+$$ F = \dfrac{m_1 \cdot m_2}{r^2} $$
+\subsection{Fórmula 3}
+ $$ \hat f(\zeta) = \int_{-\infty}^{+\infty} f(x) \ e^{2\pi i x \zeta} \mathrm{dx} $$
+
+\section{Imágenes y figuras}
+\section{Imagen centrada}
 \subsection{Imagen centrada de 7cm de ancho}
-% Introducir el código para añadir la imagen.
+\begin{center}
+\includegraphics[width=7cm]{perro.png}
+\end{center}
 \section{Figura}
 \subsection{Figura con caption \& label}
-% Introducir el código para añadir la figura y poder referenciarla
+\begin{figure}[htbp!]
+\centering \includegraphics[width=3cm]{perro.png}
+\caption{Perrito}
+\label{fig:perro}
+\end{figure}
 \section{Referenciar figura}
-% Introducir la referencia a la figura anterior, te puede ser útil el comando \ref.
+\lipsum[8]~\ref{fig:perro}
+
+
+\section{Tablas}
+% Añadir el código de la tabla del pdf, usar el paquete booktabs.
 
 \end{document}
 ```
