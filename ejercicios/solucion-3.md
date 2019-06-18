@@ -16,7 +16,6 @@ Añadir las imágenes en el documento de la manera indicada.
 
 \maketitle
 
-% Añadir código necesario para crear un índice.
 \tableofcontents
 \newpage
 

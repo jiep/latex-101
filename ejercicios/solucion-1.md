@@ -13,7 +13,6 @@
 
 \maketitle
 
-% Añadir código necesario para crear un índice.
 \tableofcontents
 \newpage
 
