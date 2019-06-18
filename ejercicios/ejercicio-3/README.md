@@ -7,7 +7,7 @@ Añadir las imágenes en el documento de la manera indicada.
 ```latex
 \documentclass{article}
 \usepackage[utf8]{inputenc}
-% Añadir paquete para fórmulas graphicx & lipsum
+% Añadir paquetes graphicx & lipsum
 
 \title{Taller LaTeX -- Ejercicio 3}
 \author{Tu nombre}
