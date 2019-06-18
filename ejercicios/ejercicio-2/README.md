@@ -19,11 +19,13 @@ Aquí está el esqueleto del documento:
 
 \tableofcontents
 
-\section{Formula 1}
+% Añadir en cada sección la fórmula correspondiente
 
-\section{Formula 2}
+\section{Fórmula 1}
 
-\section{Formula 3}
+\section{Fórmula 2}
+
+\section{Fórmula 3}
 
 \end{document}
 ```
