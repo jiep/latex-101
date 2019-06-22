@@ -1,7 +1,5 @@
 # Ejercicio 4
 
-Añadir la tabla del pdf indicado.
-
 ```latex
 \documentclass{article}
 \usepackage[utf8]{inputenc}
