@@ -1,10 +1,10 @@
 # Taller LaTeX-101
 
-Este documento va a ser la guía para ir realizando el taller de LaTeX.
+Este documento servirá como guía para realizar el taller de LaTeX.
 
 ## Primera parte
 
-Para comenzar, crearemos nuestro primer documento en blanco en la plataforma OverLeaf.
+Para comenzar, crearemos nuestro primer documento en blanco en la plataforma [OverLeaf](https://www.overleaf.com).
 
 ```latex
 \documentclass{article}
@@ -23,4 +23,4 @@ Para comenzar, crearemos nuestro primer documento en blanco en la plataforma Ove
 \end{document}
 ```
 
-Podemos cambiar el tipo de documento y ver lo que ocurre al compilar.
+Podemos cambiar la clase de documento y ver qué ocurre al compilar.
