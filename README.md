@@ -2,6 +2,10 @@
 
 Este documento servirá como guía para realizar el taller de LaTeX.
 
+## Requisitos
+
+* Crear cuenta en [OverLeaf](https://www.overleaf.com).
+
 ## Primera parte
 
 Para comenzar, crearemos nuestro primer documento en blanco en la plataforma [OverLeaf](https://www.overleaf.com).
