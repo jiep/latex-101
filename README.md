@@ -10,7 +10,7 @@ Para comenzar, crearemos nuestro primer documento en blanco en la plataforma [Ov
 \documentclass{article}
 \usepackage[utf8]{inputenc}
 
-\title{Taller LaTeX}
+\title{Taller \LaTeX}
 \author{Tu nombre}
 \date{26 de junio de 2019}
 
