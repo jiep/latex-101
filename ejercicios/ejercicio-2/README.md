@@ -1,6 +1,8 @@
 # Segundo ejercicio
 
-Crear el documento LaTeX a partir del pdf Ejercicio-2.pdf
+Crear el documento LaTeX a partir del pdf [Ejercicio-2.pdf](https://github.com/next-security-lab/latex-101/blob/master/ejercicios/ejercicio-2/Ejercicio-2.pdf).
+
+**TAREA**: Añadir fórmulas matemáticas.
 
 Aquí está el esqueleto del documento:
 
