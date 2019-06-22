@@ -1,8 +1,8 @@
 # Ejercicio 3
 
-Crear el documento LaTeX a partir del pdf Ejercicio-3.pdf
+Crear el documento LaTeX a partir del pdf [Ejercicio-3.pdf](https://github.com/next-security-lab/latex-101/blob/master/ejercicios/ejercicio-3/Ejercicio-3.pdf)
 
-Añadir las imágenes en el documento de la manera indicada.
+**TAREA**: Añadir las imágenes en el documento de la manera indicada.
 
 ```latex
 \documentclass{article}
