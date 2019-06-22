@@ -1,7 +1,5 @@
 # Ejercicio 3
 
-Añadir las imágenes en el documento de la manera indicada.
-
 ```latex
 \documentclass{article}
 \usepackage[utf8]{inputenc}
