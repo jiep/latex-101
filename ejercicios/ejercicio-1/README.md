@@ -9,7 +9,7 @@ Aquí está el esqueleto del documento:
 \usepackage[utf8]{inputenc}
 \usepackage{lipsum}
 
-\title{Taller LaTeX -- Ejercicio 1}
+\title{Taller \LaTeX -- Ejercicio 1}
 \author{Tu nombre}
 \date{26 de junio de 2019}
 
