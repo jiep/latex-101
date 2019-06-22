@@ -9,7 +9,7 @@ Aquí está el esqueleto del documento:
 \usepackage[utf8]{inputenc}
 % Añadir paquete para fórmulas amsmath
 
-\title{Taller LaTeX -- Ejercicio 2}
+\title{Taller \LaTeX{} -- Ejercicio 2}
 \author{Tu nombre}
 \date{26 de junio de 2019}
 
