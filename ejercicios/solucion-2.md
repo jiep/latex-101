@@ -1,7 +1,5 @@
 # Ejercicio 2
 
-Tratar de crear las siguientes formulas en el documento proporcionado:
-
 ```latex
 \documentclass{article}
 \usepackage[utf8]{inputenc}
