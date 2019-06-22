@@ -9,7 +9,7 @@ Crear el documento LaTeX a partir del pdf [Ejercicio-5.pdf](https://github.com/n
 \usepackage[utf8]{inputenc}
 % Añadir paquete para fórmulas graphicx & lipsum
 
-\title{Taller LaTeX -- Ejercicio 5}
+\title{Taller LaTeX{} -- Ejercicio 5}
 \author{Tu nombre}
 \date{26 de junio de 2019}
 
