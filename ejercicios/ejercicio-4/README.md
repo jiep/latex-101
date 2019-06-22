@@ -1,8 +1,8 @@
 # Ejercicio 4
 
-Crear el documento LaTeX a partir del pdf Ejercicio-4.pdf
+Crear el documento LaTeX a partir del pdf [Ejercicio-4.pdf](https://github.com/next-security-lab/latex-101/blob/master/ejercicios/ejercicio-4/Ejercicio-4.pdf).
 
-Añadir la tabla en el documento.
+**TAREA**: Añadir la tabla en el documento.
 
 ```latex
 \documentclass{article}
