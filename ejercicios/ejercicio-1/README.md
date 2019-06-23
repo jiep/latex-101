@@ -1,6 +1,8 @@
 # Primer ejercicio.
 
-Crear el documento LaTeX a partir del pdf Ejercicio-1.pdf
+Crear el documento LaTeX a partir del pdf [Ejercicio-1.pdf](https://github.com/next-security-lab/latex-101/blob/master/ejercicios/ejercicio-1/Ejercicio-1.pdf).
+
+**TAREA**: Dividir el documento.
 
 Aquí está el esqueleto del documento:
 
