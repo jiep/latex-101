@@ -2,6 +2,10 @@
 
 Este documento servirá como guía para realizar el taller de LaTeX.
 
+## Presentación
+
+* La presentación del taller se encuentra [aquí](https://github.com/next-security-lab/latex-101/blob/master/_Ninja__Taller_LaTeX_101.pdf).
+
 ## Requisitos
 
 * Crear cuenta en [OverLeaf](https://www.overleaf.com).
